@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WhatsitApplication {
+public class SpringTokenFrameWorkApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhatsitApplication.class, args);
+        SpringApplication.run(SpringTokenFrameWorkApplication.class, args);
     }
 
 }
