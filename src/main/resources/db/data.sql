@@ -1,0 +1,1 @@
+insert into USER values ('abcdefghti','user1','$2a$10$CxT2gR7dGM7JCRF8wy/EsOdCpXH8Y2mEQMSjDemoa4leau1C0oELG')
