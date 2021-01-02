@@ -1,4 +1,4 @@
-package com.pangzixiang.springtokenframework.security.workflow;
+package com.pangzixiang.springtokenframework.security.service;
 
 import com.pangzixiang.springtokenframework.security.Dao.SecurityDaoImpl;
 import com.pangzixiang.springtokenframework.security.encryption.BCryptPasswordEncoder;
